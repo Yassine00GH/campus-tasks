@@ -1,3 +1,10 @@
 .env
 *.log
 logs/
+
+__pycache__/
+*.pyc
+.pytest_cache/
+report.xml
+.env.staging
+.env.deploy
